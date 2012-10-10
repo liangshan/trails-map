@@ -15,7 +15,7 @@
 * 要去不同的地方
 * 中途很可能调转方向
 
-[Trail map](http://media.tumblr.com/tumblr_m2jrde9jXS1qz5x9p.jpg)
+![Trail map](http://media.tumblr.com/tumblr_m2jrde9jXS1qz5x9p.jpg)
 
 这个仓库包含了帮助web开发人员学习的路线图。
 
