@@ -35,7 +35,7 @@ Git
 * [修改一次提交](http://git-scm.com/book/zh/Git-%E5%9F%BA%E7%A1%80-%E6%92%A4%E6%B6%88%E6%93%8D%E4%BD%9C#%E4%BF%AE%E6%94%B9%E6%9C%80%E5%90%8E%E4%B8%80%E6%AC%A1%E6%8F%90%E4%BA%A4)
 * 通过SHA哈希值查看一次提交内容
 * [暂存你的工作](http://git-scm.com/book/zh/Git-%E5%B7%A5%E5%85%B7-%E5%82%A8%E8%97%8F%EF%BC%88Stashing%EF%BC%89#%E5%82%A8%E8%97%8F%E4%BD%A0%E7%9A%84%E5%B7%A5%E4%BD%9C)
-* Squash commits
+* 合并提交
 * [创建Tag](http://git-scm.com/book/zh/Git-%E5%9F%BA%E7%A1%80-%E6%89%93%E6%A0%87%E7%AD%BE#%E6%96%B0%E5%BB%BA%E6%A0%87%E7%AD%BE)
 
 或许你又更进一步，当你能:
