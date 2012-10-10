@@ -1,27 +1,26 @@
-Trail map
+路线图
 =========
 
-> How do I learn Python? Vim? Design Pattern?
+> 我该如何学习Python? Vim? 亦或是设计模式?
 
-A few problems make those questions difficult to answer. Individuals:
+有些原因使得上述问题难以回答，比如：
 
-* have different levels of experience
-* have different learning styles
-* change their goals mid-process
+* 不同程度的经验积累
+* 不同的学习方法
+* 学习过程中经常转换方向
 
-A good metaphor for the learning process is a (hiking, biking, or skiing) trail
-map. Individuals:
+对于这种情况，一种比较形象的比喻是一张徒步或骑车的路线图
 
-* start in different places
-* want to go to different places
-* change direction mid-journey
+* 从不同地点出发
+* 要去不同的地方
+* 中途很可能调转方向
 
-![Trail map](http://media.tumblr.com/tumblr_m2jrde9jXS1qz5x9p.jpg)
+[Trail map](http://media.tumblr.com/tumblr_m2jrde9jXS1qz5x9p.jpg)
 
-This repository contains trails to help web developers learn.
+这个仓库包含了帮助web开发人员学习的路线图。
 
-Trails
 ------
+Trails
 
 * [CSS](/liangshan/trails-map/blob/master/trails/css.md)
 * [Git](/liangshan/trails-map/blob/master/trails/git.md)

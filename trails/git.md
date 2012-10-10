@@ -1,23 +1,21 @@
 Git
 ===
 
-Critical learning
+学习
 -----------------
 
-* First, [Try Git](http://try.github.com)!
-* Watch the [Normal Workflow](http://blip.tv/scott-chacon/c2-normal-workflow-4113486)
-  gitcast.
-* Watch the [Distributed Workflow](http://blip.tv/scott-chacon/c8-dist-workflow-4113615)
-  gitcast.
-* Read [Chapter 3 of Pro Git](http://git-scm.com/book/en/Git-Branching).
-* Read [gitready](http://gitready.com) articles that interest you.
+* 首先, [试试Git](http://try.github.com)!
+* 学习 [一般工作流程](http://blip.tv/scott-chacon/c2-normal-workflow-4113486)
+* 学习 [分布式工作流程](http://blip.tv/scott-chacon/c8-dist-workflow-4113615)
+* 阅读 [Pro Git第三章](http://git-scm.com/book/en/Git-Branching).
+* 阅读 [gitready](http://gitready.com) 上你感兴趣的内容 
 
-Validation
+检验
 ----------
 
-You know everyday git when you can:
+你大概可能也许已经入门，当你能:
 
-* [Initialize a repository](http://git-scm.com/book/en/Git-Basics-Getting-a-Git-Repository#Initializing-a-Repository-in-an-Existing-Directory)
+* [repository](http://git-scm.com/book/en/Git-Basics-Getting-a-Git-Repository#Initializing-a-Repository-in-an-Existing-Directory)
 * [Clone a repository](http://git-scm.com/book/en/Git-Basics-Getting-a-Git-Repository#Cloning-an-Existing-Repository)
 * [Ignore files](http://git-scm.com/book/en/Git-Basics-Recording-Changes-to-the-Repository#Ignoring-Files)
 * [Add a file to staging](http://git-scm.com/book/en/Git-Basics-Recording-Changes-to-the-Repository#Tracking-New-Files)
@@ -33,7 +31,7 @@ You know everyday git when you can:
 * [Push to a remote branch](http://git-scm.com/book/en/Git-Basics-Working-with-Remotes#Pushing-to-Your-Remotes)
 * [Rebase origin/master into a branch](http://git-scm.com/book/en/Git-Branching-Rebasing#The-Basic-Rebase)
 
-You know intermediate git when you can:
+相信你已经运用的比较熟练，当你能:
 
 * [Add a remote](http://git-scm.com/book/en/Git-Basics-Working-with-Remotes#Adding-Remote-Repositories)
 * [Amend a commit](http://git-scm.com/book/en/Git-Basics-Undoing-Things#Changing-Your-Last-Commit)
@@ -42,7 +40,7 @@ You know intermediate git when you can:
 * Squash commits
 * [Create a tag](http://git-scm.com/book/en/Git-Basics-Tagging#Creating-Tags)
 
-You know advanced git when you can:
+或许你又更进一步，当你能:
 
 * Cherry pick commits
 * [Reorder commits](http://gitready.com/advanced/2009/03/20/reorder-commits-with-rebase.html)
@@ -51,17 +49,17 @@ You know advanced git when you can:
 * [Visualize commits differently using `git log` flags](http://gitready.com/advanced/2009/01/20/bend-logs-to-your-will.html)
 * Visualize changes differently using `git diff` flags
 
-Ongoing reference
+一些参考
 -----------------
 
-Refer to these man pages when you start a new project:
+新建项目时，或许你可以查询以下手册:
 
 ```shell
 man git-clone
 man git-init
 ```
 
-Refer to these man pages often during a project:
+项目过程中，或许你可以查询以下手册:
 
 ```shell
 man git-add
