@@ -24,7 +24,7 @@ Javascript
 * 实例化对象
 * 使用 `[]`初始化一个数组.
 * 使用`{}`初始化一个对象.
-* 使用 `prototype`继承一个类.
+* 使用 `prototype` [继承](http://www.ruanyifeng.com/blog/2011/06/designing_ideas_of_inheritance_mechanism_in_javascript.html) 一个类.
 * 迭代一个集合.
 * 使用`CamelCase`命名prototypes, `mixedCase`命名变量和函数,
   `SCREAMING_SNAKE_CASE`命名常量, `_single_leading_underscore`命名私有的变量和函数.
