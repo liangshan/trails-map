@@ -11,51 +11,49 @@ Javascript
 验证
 ----------
 
-You know everyday Javascript when you:
+你已经大概了解JavaScript，当你能:
 
-* Use Web Inspector to test your ideas.
-* Run programs.
-* Avoid syntax errors.
-* Avoid global variables.
-* Print values.
-* Define a function.
-* Invoke a function.
-* Use common control flow structures.
-* Instantiate an object.
-* Initialize arrays using `[]`.
-* Initialize empty objects and hashes using `{}`.
-* Inherit classes using `prototype`.
-* Iterate over collections.
-* Use `CamelCase` for prototypes, `mixedCase` for variables and functions,
-  `SCREAMING_SNAKE_CASE` for constants, `_single_leading_underscore` for
-  private variables and functions.
-* Use the [module pattern](http://goo.gl/JDtHN) to control method visibility.
+* 善于使用Web Inspector来调试代码，或是验证你的想法.
+* 正确执行代码.
+* 避免语法错误.
+* 避免使用全局变量.
+* 打印有用的信息.
+* 定义一个函数.
+* [正确的调用函数](http://www.cnblogs.com/lhb25/archive/2009/03/12/1409241.html).
+* 使用控制流.
+* 实例化对象
+* 使用 `[]`初始化一个数组.
+* 使用`{}`初始化一个对象.
+* 使用 `prototype`继承一个类.
+* 迭代一个集合.
+* 使用`CamelCase`命名prototypes, `mixedCase`命名变量和函数,
+  `SCREAMING_SNAKE_CASE`命名常量, `_single_leading_underscore`命名私有的变量和函数.
+* 使用 [module pattern](http://yuiblog.com/blog/2007/06/12/module-pattern) （梯子自备）来控制私有成员的可见度.
 
-You know everyday Javascript web programming when you:
+你已经大概了解如何使用JavaScript编写web程序，当你能:
 
-* Make HTTP requests.
-* Serialize and deserialize JSON.
-* Access and manipulate DOM elements.
-* Register and remove event handlers.
-* Respond to events.
+* 发送HTTP请求.
+* 序列化和反序列化JSON.
+* 访问并操作DOM.
+* 注册和移除事件.
+* 响应事件.
 * Define functions that operate on `window` or DOM in scope of `window`.
-* Use `data-` attributes to bind event handlers.
+* 使用 [data-](http://ejohn.org/blog/html-5-data-attributes/) 绑定事件.
 
-You know advanced Javavascript web programming when you can:
+你已经熟练掌握了使用JavaScript编写web程序,当你能:
 
-* Organize code into Models, Views, and Controllers.
-* Use [Pub/Sub](http://en.wikipedia.org/wiki/Publish/subscribe) with DOM and
-  non-DOM events.
-* Generate GUIDs.
-* Secure your application against cross-domain requests.
-* Persist data locally between page refreshes using `localStorage`.
-* Use the HTML5 History API.
+* 使用MVC（Models, Views, and Controllers）来组织你的代码.
+* 使用 [Pub/Sub](http://en.wikipedia.org/wiki/Publish/subscribe) 来处理DOM或non-DOM事件.
+* 生成GUID.
+* 知道如何防御跨站请求.
+* 使用`localStorage`在不同页面间共享数据.
+* 使用HTML5 History API.
 * Bind a view element to a Javascript object (usually a model).
 
-Ongoing reference
+一些参考
 -----------------
 
 * [Javascript: The Definitive Guide](http://amzn.to/ONeSOs)
-  Core and Client-Side Reference chapters.
+  Core和客户端相关的章节.
 * [jQuery API](http://api.jquery.com/).
 
