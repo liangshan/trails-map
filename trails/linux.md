@@ -8,7 +8,7 @@ GNU/Linux
 
 关于Linux，您需要先了解[什么是Linux][2]。
 
-如果您是一位计算机的初学者，或者不熟悉什么叫做[命令行][3]，建议您使用[快速上手][4]。
+如果您是一位计算机的初学者，或者不熟悉什么叫做[命令行][3]，建议您使用[入门方法][4]。
 
 而如果对自己有自信，想寻找一些挑战，您可以选择[the hard way][5]。
 
@@ -19,8 +19,8 @@ GNU/Linux
 
 XDDDDDDDDDDDD
 
-easy way?
----------
+the easy way
+------------
 
 ### 挑选发行版
 
@@ -237,6 +237,6 @@ LDFLAGS
 [1]: http://security.zdnet.com.cn/security_zone/2008/0703/962834.shtml
 [2]: http://zh.wikipedia.org/wiki/Linux
 [3]: http://zh.wikipedia.org/wiki/%E5%91%BD%E4%BB%A4%E8%A1%8C
-[4]: #快速上手
+[4]: #the-easy-way
 [5]: #the-hard-way
 
