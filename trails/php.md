@@ -39,5 +39,5 @@ PHP
 > V2部分
 
 * 一次请求到达V2后的工作流程
-* 结合[`APS`](http://arch.corp.anjuke.com/blog/2011/07/16/aps/)，实现异步请求（进程间通信）
+* 结合[APS](http://arch.corp.anjuke.com/blog/2011/07/16/aps/)，实现异步请求（进程间通信）
 * 了解V2如何加载静态资源
