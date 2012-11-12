@@ -34,5 +34,15 @@ Trails
 * [PHP](/liangshan/trails-map/blob/master/trails/php.md)
 * [Python](/liangshan/trails-map/blob/master/trails/python.md)
 * [Shell](/liangshan/trails-map/blob/master/trails/shell.md)
-* [Unit Test](/liangshan/trails-map/blob/master/trails/unit_test.md)
 * [WebServer](/liangshan/trails-map/blob/master/trails/webserver.md)
+
+Original Author
+---------------
+[thoughtbot](https://github.com/thoughtbot/trail-map)
+
+License
+-------
+It is free software and may be redistributed under the terms specified in the [Creative Commons Attribution
+License](http://creativecommons.org/licenses/by/3.0/).
+
+
