@@ -30,7 +30,7 @@ PHP
 * 了解PHP和Apache协作的方式，了解php-fpm
 * 了解如何快速、准确的调试PHP代码
 * 使用CURL发起HTTP请求
-* 理解[Syntx Exam](http://www.blueshoes.org/en/developer/syntax_exam/)中的全部题目，并在开发中时刻留意关于`true`和`false`的判断
+* 理解[Syntax Exam](http://www.blueshoes.org/en/developer/syntax_exam/)中的全部题目，并在开发中时刻留意关于`true`和`false`的判断
 * 了解如何防御web开发中基本的安全问题
 * 自行开发PHP扩展
 * 知道如何[编写可测试的代码](http://www.ibm.com/developerworks/cn/opensource/os-refactoringphp/?cmp=dwnpr&cpb=dw&ct=dwcon&cr=cn_Chinabyte_dr&ccy=cn)
