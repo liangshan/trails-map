@@ -18,25 +18,28 @@ PHP
 
 验证
 ----------
-> TODO 需要区分难度，这里仅仅先列出来
+你已经入门，当你能：
 
-* 用array初始化List和HashMap，并理解他们的不同
-* 用for和foreach迭代不同数据结构的集合
-* 了解PHP中的闭包和命名空间
 * 拥有良好的编码风格。不同公司风格或许不同，但在同一项目中，风格需保持一致
+* 用array初始化数组和哈希数组，并理解他们的不同
+* 用for和foreach迭代不同数据结构的集合
+* 理解[Syntax Exam](http://www.blueshoes.org/en/developer/syntax_exam/)中的全部题目，并在开发中时刻留意关于`true`和`false`的判断
+* 使用`CURL`发起HTTP请求
+* 了解如何快速、准确的调试PHP代码
 * 了解MVC，为何需要MVC，PHP通常如何实现MVC
+* 了解如何防御web开发中基本的安全问题
+
+你已经更进一步，当你能：
+
+* 了解在PHP中如何用`IPC`和`Socket`实现进程间通信
+* 了解PHP中的闭包和命名空间
 * 使用[ORM](http://zh.wikipedia.org/zh/%E5%AF%B9%E8%B1%A1%E5%85%B3%E7%B3%BB%E6%98%A0%E5%B0%84)访问数据库
 * 了解如何使用设计模式来优化自己的代码
 * 了解PHP和Apache协作的方式，了解php-fpm
-* 了解如何快速、准确的调试PHP代码
-* 使用CURL发起HTTP请求
-* 理解[Syntax Exam](http://www.blueshoes.org/en/developer/syntax_exam/)中的全部题目，并在开发中时刻留意关于`true`和`false`的判断
-* 了解如何防御web开发中基本的安全问题
 * 自行开发PHP扩展
 * 知道如何[编写可测试的代码](http://www.ibm.com/developerworks/cn/opensource/os-refactoringphp/?cmp=dwnpr&cpb=dw&ct=dwcon&cr=cn_Chinabyte_dr&ccy=cn)
-* 了解在PHP中如何用`IPC`和`Socket`实现进程间通信
 
-> V2部分
+Anjuke V2框架额外练习：
 
 * 一次请求到达V2后的工作流程
 * 结合[APS](http://arch.corp.anjuke.com/blog/2011/07/16/aps/)，实现异步请求（进程间通信）
