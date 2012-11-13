@@ -1,6 +1,32 @@
 Python
 ======
 
+学习
+-------
+
+* [简明python教程](http://sebug.net/paper/python/)
+* 阅读[Python Coding Rule](http://ssv.sebug.net/Python_Coding_Rule)
+* 阅读[Python学习手册](http://product.dangdang.com/product.aspx?product_id=20667966)(￥)
+* 阅读[Python核心编程](http://product.dangdang.com/product.aspx?product_id=20255354)(￥)
+
+验证
+-------
+
+List：
+
+* WSGI
+* lambda
+* list & dict
+* decorator
+* Generators
+* Iterators
+* buildout & virtualenv
+* datetime, json, math
+* [i*2 for i in range(10)]
+* string, unicode
+
+高级：
+
 > The Zen of Python, by Tim Peters
 
 > Beautiful is better than ugly.
@@ -23,10 +49,6 @@ Python
 > If the implementation is easy to explain, it may be a good idea.
 > Namespaces are one honking great idea – let’s do more of those!
 
-学习
--------
-
-* [简明python教程](http://sebug.net/paper/python/)
-* 
+* 了解上面的内容:)
 
 
