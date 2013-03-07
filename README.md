@@ -22,19 +22,19 @@
 ------
 Trails
 
-* [CSS](/liangshan/trails-map/blob/master/trails/css.md)
-* [Git](/liangshan/trails-map/blob/master/trails/git.md)
-* [HTML](/liangshan/trails-map/blob/master/trails/html.md)
-* [Java](/liangshan/trails-map/blob/master/trails/java.md)
-* [JavaScript](/liangshan/trails-map/blob/master/trails/javascript.md)
-* [Linux](/liangshan/trails-map/blob/master/trails/linux.md)
-* [MySQL](/liangshan/trails-map/blob/master/trails/mysql.md)
-* [Network Protocol](/liangshan/trails-map/blob/master/trails/network_protocol.md)
-* [Open Source](/liangshan/trails-map/blob/master/trails/open_source.md)
-* [PHP](/liangshan/trails-map/blob/master/trails/php.md)
-* [Python](/liangshan/trails-map/blob/master/trails/python.md)
-* [Shell](/liangshan/trails-map/blob/master/trails/shell.md)
-* [WebServer](/liangshan/trails-map/blob/master/trails/webserver.md)
+* [CSS](trails/css.md)
+* [Git](trails/git.md)
+* [HTML](trails/html.md)
+* [Java](trails/java.md)
+* [JavaScript](trails/javascript.md)
+* [Linux](trails/linux.md)
+* [MySQL](trails/mysql.md)
+* [Network Protocol](trails/network_protocol.md)
+* [Open Source](trails/open_source.md)
+* [PHP](trails/php.md)
+* [Python](trails/python.md)
+* [Shell](trails/shell.md)
+* [WebServer](trails/webserver.md)
 
 Original Author
 ---------------
