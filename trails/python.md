@@ -22,7 +22,7 @@ List：
 * Iterators
 * buildout & virtualenv
 * datetime, json, math
-* [i*2 for i in range(10)]
+* `[i*2 for i in range(10)]`
 * string, unicode
 
 高级：
